@@ -1,0 +1,3 @@
+prompt querying dept...
+select * from dept 
+order by dname;
