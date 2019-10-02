@@ -1,2 +1,2 @@
 select * from emp
-order by ename
+order by empno
